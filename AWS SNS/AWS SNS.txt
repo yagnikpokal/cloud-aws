@@ -1,0 +1,8 @@
+Amazon SNS
+Simple notification service
+Event publishers will only sends messages to one sns topic
+As many as subscriber as we want to listen for topic notification
+SNS subscriber can be a http/https, emails, SMS messages, mobile notifications, SQS queue, Lambda functions
+Click on serachbar type sns
+Click on create
+Create subscription based on need

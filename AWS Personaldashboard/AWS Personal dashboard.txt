@@ -1,0 +1,4 @@
+AWS personal health dashboard
+Provides alerts and remediation guidance when aws is experiancing event that may impact you
+While service health dashboard will display general status of aws services 
+It will shows issues, open issue on alert section 

@@ -1,0 +1,5 @@
+Cloud watch logs
+No logs goes to cloudwatch
+You need to run cloud watch agent on EC2 to push the log file you want
+Make sure IAM permissions are correct
+The cloud watch log agent can be setup on premises too

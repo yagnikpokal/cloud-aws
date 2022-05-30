@@ -1,0 +1,10 @@
+Amazon cloud watch metrics
+It provides metrics for every services in AWS
+It have a timestamp, CPU utilization, Network utilization
+Can create cloud watch dashboard
+EC2 -- CPU Utilisation, Status check, network, default metrics at 5 min, Detail at 1 min
+EBS volumw -- disk read/write
+S3 -- bucket sizebyte, no of objects, all requests
+Billing -- total estimated charge
+Service limit -- How much you have been using service api
+Custome metrics Push your own metrics

@@ -1,0 +1,16 @@
+Amazon codeguru
+ML powered service for automated code review and application performance recommended
+Codeguru reviewer automatic code review for static code analysys
+Identify critical issues, security valunerability, hard to find bug
+To identify memory leak, resource leak
+Support java and python
+
+Codeguru profiler Visibility/recommendation about application performance during runtime(production)
+Help to understand runtime behaviuor of the applications
+Identify and remove code inssuficienty
+Improove efficiency performance
+Decrese compute cost
+Provide heap memory summery
+Anomaly detection
+Support in AWS or on premises
+Minimal overhead on application

@@ -1,0 +1,9 @@
+Network ACL & security group
+NACL It is a firewall which controll from and to subnets
+Can have allow and deny rules
+Are attatched at subnet level
+Rules only includes IP adress
+
+Security group
+A firewall that controll traffic to and from an ENI/EC2 instance
+Can have only a;llow rules

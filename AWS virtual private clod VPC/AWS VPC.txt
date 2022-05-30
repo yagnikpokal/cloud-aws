@@ -1,0 +1,6 @@
+VPC-->>virtual private cloud it is the private network to deploy your resources
+Subnets-->>Allows you to partition your network inside your VPC
+Publick subnets-->>It is a subnets that is the accesible from the internet
+Private subnets-->>not accessible from the internet
+Route table-->> To define the access to internet and between subnets we use route table
+Internet gateways and nat gateways will help here

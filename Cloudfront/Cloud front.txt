@@ -1,0 +1,10 @@
+AWS cloud front service
+Content delivery network CDN
+Improve the read performance, as content is cached at the edge of locations at 216 point globally
+Provides ddos protection 
+Integrated with AWS web application firewall
+Cloud front will connect with S3 and http. It will cache the data from main server and serve according to contry needed.
+The data fetched from the server and located at a contry will be read only. So that hacker will not get the chance to hack the main server.
+
+Create bucket-->> Do necessory setings like encription..-->> create 
+It is a global service

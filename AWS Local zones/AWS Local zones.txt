@@ -1,0 +1,7 @@
+AWS local zones
+Places AWS compute , storage, database, and othe rselected services close to latency sensitive
+Extend your location to more VPC
+Compatible with EC2, RDS, ECS, EBS, Elasticache, direct connect
+
+To setup the zones
+Go to EC2-->>zones-->> local zone-->>enable-->>chose ami and remaining things

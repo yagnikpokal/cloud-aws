@@ -1,0 +1,7 @@
+Amazon S3 transfer acceleration
+You got the speed comparison of same file transfering 
+
+AWS Globle accelerator
+It improove the globle application availibility and performance using the AWS globle networks
+It will leverage the AWS internal network to route and optimize your applications around 60%
+It will create the edge location and transfer all the data to that edge location so that you will get a low latency

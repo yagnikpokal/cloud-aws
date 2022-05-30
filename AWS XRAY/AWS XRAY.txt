@@ -1,0 +1,8 @@
+AWS Xray
+Debugging in production the good old way
+Test locally
+Add log statement everywhere
+Redeploy
+Troubleshooting bottlnecks
+Review behaviour
+Find errors

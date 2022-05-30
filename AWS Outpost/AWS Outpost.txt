@@ -1,0 +1,12 @@
+AWS outposts
+Associated with hybrid cloud.
+It is the server racks that offers a same infractures, services, APIs, & tools to build your own applications on premises just as in the cloud.
+AWS will setup the racks at your premises
+Physucally we will be responsible for the security
+
+Benifits,
+Low latency access to on premises system
+Local data processing
+Easier  migration from on premises to cloud
+Data residency
+Works with EC2, EBS, S3, EKS, ECS, RDS, EMR  

@@ -1,0 +1,4 @@
+AWS Status- service health dashboard
+Show all region, all service health
+Shows historical info
+RSS feed to subscribe

@@ -1,0 +1,30 @@
+Lambda
+Serverless service
+It only has virtual functions
+Run on demand
+Scaling is totally automated
+
+Benifits
+Easy price
+- Pay per request and compute time
+- Even for free tier 1 million request and 400,000 GBs of compute time
+- It can be integrated with whole AWS suite services
+- It is event driven so when we need it
+- Easy monitoring through cloud watch
+- Easy to get more resources per functions (up to 10 GB of ram)
+- Increse RAM will also improve CPU and network
+
+Langugae support
+Node.js (javascript)
+Python
+java
+C# (.NET core)
+Golang
+C# / powershell
+Ruby
+Custome runtime API (Rust)
+Lambda container image
+
+
+
+Leveraging the global infastructor of AWS

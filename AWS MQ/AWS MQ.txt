@@ -1,0 +1,5 @@
+Amazon MQ
+It is like MQTT, AMQP protocoal
+MQ=manage apache activeMQ
+Doesnt scal at SQS/SNS
+It has both features SQS, SNS

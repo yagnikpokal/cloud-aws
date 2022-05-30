@@ -1,0 +1,6 @@
+AWS Wavelength
+Wavelength zones are deployed at the edge of 5G networks
+It works with EC2, EBS, VPC..
+Ultra low latency application through 5G network
+High bandwidth and secure connections to parent AWS region
+It will used in smart cities, ML, Connected vehicles, AR/VR, Real time gaming

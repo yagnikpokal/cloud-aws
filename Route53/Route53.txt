@@ -1,0 +1,7 @@
+Route 53
+It is a globle service doesnt needed regions. Take a domain if want to use route 53.
+Route 53 service will allow you to derive the trafic comes from a contry to specific geographic location or lattency based.
+This service will redirect you domain to configured server in AWS.
+
+Route 53 will not comes free. It will cost $12 for domain and $0.5 for hosted domain.
+Select region -->>chooseAMI-->>choose instance type-->>configure or choose previously used instance-->>Add a storage-->>Add a tag-->>Configure security group-->>SelectEC2 instance-->>Add a little code of heloworld-->> Review and launch-->> Launch instance

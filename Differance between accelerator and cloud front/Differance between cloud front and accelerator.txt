@@ -1,0 +1,9 @@
+Differnce between accelerator and cloudfront
+Both use AWS globle  network and edge locations around the world
+Both uses AWS shield for DDOS
+Cloud front is content delivery network, which improoves cachable contents like images videos etc and content served at the edge
+Globle accelerator Nocaching The application running on the all the configured server on one or more AWS region
+It will be improove performance of TCP or UDP
+
+There is one tool which will give you speed speedtest.globle accelerator.aws
+Gives the detail with globle accelerator and without accelerator

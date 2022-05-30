@@ -1,0 +1,19 @@
+AWS Cloud trails
+Provides governance, compliance, audit for your AWS account
+It enabled by default
+Get a history/API call made within the AWS account
+Console
+SDK
+CLI
+AWS Services
+Can puts logs from cloud trail to cloud watch or S3
+If resource will be deleted then AWS will investigate cloudtrail first
+Events are stored for 90 days
+If you need logs more then 90 days then you need to log them into S3 or athena
+You can see indepth who has done change/addd/delete of anything here
+
+Cloud trail inside
+It is used to detect unusual activity in your account
+Detect pattern
+Inaccurate resource provisioning
+Hitting service limit

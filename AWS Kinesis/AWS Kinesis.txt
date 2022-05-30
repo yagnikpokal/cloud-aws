@@ -1,0 +1,7 @@
+Amazon kinesis
+Kinesis=real time big data streaming
+Manage service to collect, process and analyse real time streaming data at any scale
+Kinesis data stream : Low latency services scale from hundread, thousands of sources
+Kinesis data firehouse : load stream onto the s3, redshift, elastic search
+Data from iot devices, 
+IoT devices-->>kinesis stream-->>analysys-->>firehouse-->>S3 bucket or redshift
